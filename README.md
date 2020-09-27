@@ -120,7 +120,7 @@ Ruby、Ruby on Rails、RSpec、Capistrano、Unicorn、Ansible、Nginx、CircleCI
 **Salesforceとの結合バッチ**
 
 1日に1度、先方のSalesforceからマスタデータを取得、更新するバッチの作成を担当しました。
-OAuthを使用し認証を行い、マスタデータの取得を行うバッチとなります。OAuth認証とデータ取得のロジックを分離(クラスの責務を細分化)し、できるだけ再利用をしやすいようなコードを意識していました。
+を使用し認証を行い、マスタデータの取得を行うバッチとなります。OAuth認証とデータ取得のロジックを分離(クラスの責務を細分化)し、できるだけ再利用をしやすいようなコードを意識していました。
 
 **API作成**
 
@@ -164,7 +164,7 @@ BtoC向けのアプリの画像加工処理をマイクロサービスとしてL
 2019/12~2020/3
 
 【使用技術】
-Ruby、Ruby on Rails、RSpec、Slim、Stimulas.js、Flocss
+Ruby、Ruby on Rails、RSpec、Slim、Stimulas.js、Flocscss
 
 #### 実装担当箇所
 **場所登録機能の一貫した実装**
