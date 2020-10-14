@@ -10,8 +10,8 @@
 | 職業   | Web系エンジニア(正社員)  |
 | 得意領域   | バックエンド  |
 
-Wantedly：https://www.wantedly.com/users/91169568
-連絡先：naka.hirokiii@gmail.com
+- Wantedly：https://www.wantedly.com/users/91169568
+- 連絡先：naka.hirokiii@gmail.com
 
 ### 自己紹介
 エンジニア歴2年となりWeb系アプリケーション、ビジネス系アプリケーションなど様々なシステム開発に携わってきました。
