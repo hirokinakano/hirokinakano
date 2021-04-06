@@ -8,7 +8,7 @@
 | 年齢   | 26歳 (2021/3月時点)  |
 | 住み   | 東京都港区  |
 | 職業   | Web系エンジニア(正社員)  |
-| 得意領域   | バックエンド  |
+| 得意領域   | バックエンド、フロントエンド  |
 
 - Wantedly：https://www.wantedly.com/users/91169568
 - Zenn:https://zenn.dev/nakasan
