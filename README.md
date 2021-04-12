@@ -11,7 +11,7 @@
 | 得意領域   | バックエンド、フロントエンド  |
 
 - Wantedly：https://www.wantedly.com/users/91169568
-- Zenn:https://zenn.dev/nakasan
+- Zenn：https://zenn.dev/nakasan
 - 連絡先：naka.hirokiii@gmail.com
 
 ### 自己紹介
