@@ -31,9 +31,3 @@ Terraformを用いたAWS、GCPを用いたインフラ構築を行うことも�
 
 #### インフラ
 *Docker、AWS、GCP、Terraform、Ansible、CircleCI、Nginx、Unicorn*
-
-## 業務経歴
-業務で担当したプロジェクトの概要を記載しています。
-下記のスプレッドシートをご参照ください
-
-https://docs.google.com/spreadsheets/d/1aMWUyybwygX827gNdfkAELAR95aEktAGuEDCvjb_bMs/edit#gid=180468472
